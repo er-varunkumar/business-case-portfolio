@@ -113,12 +113,12 @@ graph TD
 ## 🔍 Choosing the Right Business-Level Strategy
 Selecting a BLS is not arbitrary. It requires a deep understanding of your:
 
-1. External Analysis
-🔍 Tools: PESTEL Analysis, Porter's Five Forces
+### 1. External Analysis
+🔍 Tools: PESTEL Analysis, Porter's Five Forces<br>
 ❓ Questions: Who are your competitors? What do customers value? What are industry trends?
 
-2. Internal Analysis
-🔍 Tools: VRIO Framework, Value Chain Analysis
+### 2. Internal Analysis
+🔍 Tools: VRIO Framework, Value Chain Analysis<br>
 ❓ Questions: What are your core strengths? What can you do better than anyone else?
 
 ## ⚠️ Strategic Pitfalls to Avoid
